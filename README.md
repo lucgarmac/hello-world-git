@@ -24,6 +24,7 @@ Aquí podemos combinar los formatos *itálica*, **bold** y ~~tachado~~.
 
 
 # Listas
+
 ## Lista ordenada
 1. Item 
 2. Item 
@@ -88,3 +89,10 @@ function $initHighlight(block, cls) {
 
 export  $initHighlight;
 ```
+
+# Tablas
+
+| Nombre | Apellido | DNI |
+| ------ | -------- | --- |
+| Maxi | Burgos | 11111111 |
+| Tomas | Tompson | 22222222 |
