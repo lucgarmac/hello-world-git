@@ -39,3 +39,7 @@ Aquí podemos combinar los formatos *itálica*, **bold** y ~~tachado~~.
 <a href="https://www.google.com/">Link html</a> \
 [Link en markDown](https://www.google.com/) \
 [Link a Index](index.html)
+
+
+# Imágenes
+![Logo Github](https://cdn-icons-png.flaticon.com/512/25/25231.png)
