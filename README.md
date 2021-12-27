@@ -104,3 +104,17 @@ Sigue dentro de la cita
 
 Esto es otro texto fuera de la cita.
 > Esto es otra cita.
+
+
+# Líneas divisoras
+Es un texto dividido por guiones (---)
+
+---
+Es un texto dividido por asteriscos (***)
+
+***
+
+Es un texto dividido por guiones bajos (___)
+
+___
+
