@@ -35,3 +35,7 @@ Aquí podemos combinar los formatos *itálica*, **bold** y ~~tachado~~.
 - Item 
 
 
+# Enlaces
+<a href="https://www.google.com/">Link html</a> \
+[Link en markDown](https://www.google.com/) \
+[Link a Index](index.html)
