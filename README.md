@@ -15,11 +15,16 @@ Underline 2
 
 
 # Formatos de énfasis
-Formato *itálica* forma 1.\
-Formato _itálica_ forma 2.\
-Formato **bold o strong** forma 1.\
-Formato __bold o strong__ forma 2.\
-Formato ~~tachado~~.\
+Formato *itálica* forma 1.
+
+Formato _itálica_ forma 2.
+
+Formato **bold o strong** forma 1.
+
+Formato __bold o strong__ forma 2.
+
+Formato ~~tachado~~.
+
 Aquí podemos combinar los formatos *itálica*, **bold** y ~~tachado~~.
 
 
@@ -37,8 +42,10 @@ Aquí podemos combinar los formatos *itálica*, **bold** y ~~tachado~~.
 
 
 # Enlaces
-<a href="https://www.google.com/">Link html</a> \
-[Link en markDown](https://www.google.com/) \
+<a href="https://www.google.com/">Link html</a> 
+
+[Link en markDown](https://www.google.com/) 
+
 [Link a Index](index.html)
 
 
@@ -118,3 +125,11 @@ Es un texto dividido por guiones bajos (___)
 
 ___
 
+
+
+# Saltos de línea
+Este es el primer párrafo.
+
+Este es el segundo párrafo.
+
+Este es el tercer párrafo.
