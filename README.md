@@ -91,8 +91,16 @@ export  $initHighlight;
 ```
 
 # Tablas
-
 | Nombre | Apellido | DNI |
 | ------ | -------- | --- |
 | Maxi | Burgos | 11111111 |
 | Tomas | Tompson | 22222222 |
+
+
+# Citas
+Referencia a un cita:
+> Esto es una cita.
+Sigue dentro de la cita
+
+Esto es otro texto fuera de la cita.
+> Esto es otra cita.
